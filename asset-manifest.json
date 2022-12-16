@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/timerJS-fcc/static/css/main.9418dc98.css",
+    "main.js": "/timerJS-fcc/static/js/main.f3cf72e0.js",
+    "index.html": "/timerJS-fcc/index.html",
+    "main.9418dc98.css.map": "/timerJS-fcc/static/css/main.9418dc98.css.map",
+    "main.f3cf72e0.js.map": "/timerJS-fcc/static/js/main.f3cf72e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9418dc98.css",
+    "static/js/main.f3cf72e0.js"
+  ]
+}
